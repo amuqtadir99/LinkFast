@@ -1,4 +1,4 @@
-# LinkFast 🚀
+# [LinkFast 🚀](https://amuqtadir99.github.io/LinkFast/)
 
 A modern, responsive URL shortener landing page with real API integration and stunning dark theme design.
 
@@ -6,6 +6,9 @@ A modern, responsive URL shortener landing page with real API integration and st
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![image](https://github.com/user-attachments/assets/fe0f6d18-332e-4f1b-9d90-b4c7e226bcd7)
+
 
 ## ✨ Features
 
